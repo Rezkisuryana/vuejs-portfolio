@@ -3,8 +3,8 @@ Portfolio app built using Vue and CosmicJS
 
 ## Install
 ``` bash
-git clone git@github.com:sandi-racy/vue-cosmic-portfolio.git
-cd vue-cosmic-portfolio
+git clone https://github.com/cosmicjs/vuejs-portfolio
+cd vuejs-portfolio
 npm install
 npm run build
 npm start
