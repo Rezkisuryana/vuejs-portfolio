@@ -1,5 +1,5 @@
 # Vue Cosmic Portfolio
-Portfolio app built using Vue and CosmicJS
+Portfolio app built using Vue and [Cosmic JS](https://cosmicjs.com)
 
 ## Install
 ``` bash
